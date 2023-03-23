@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "employer": "Quicken Loans",
+            "title": "Software Engineer",
+            "dateStr": "March 2021 – Present",
+            "type": "Permanent",
+            "location": "Remote",
+            "how": "As part of a high-performance team of talented engineers I work on chat and SMS applications using Node, React, AWS, Salesforce and Watson. I also work with HTML and CSS to customize the appearance of a bot, and when maintaining our internal management application. A primary focus of this work is to capture and share lead data with our partners. Our apps also determine how to best serve the customer when making direct transfers from the chat client to a live agent. ",
+            "why": "No company can live without AI, and our product Liv is the AI entry point for Rocket and its affiliates. Our bot is powered by Watson and is integrated with live transfers that allow the user to be served immediately, including after business hours. So far, our product has driven revenue to the tune of ~$40 mil with a 38% increase in lead allocation to our bankers."
+        },
+        {
+            "id": 2,
+            "employer": "Tixora",
+            "title": "Software Engineer",
+            "dateStr": "August 2020 – Jan 2021",
+            "type": "Contract",
+            "location": "Remote",
+            "how": "As a contractor for this startup company, I worked with Angular, Node, and Google Cloud. I was instrumental in making changes and updates to the Angular application which serves as a portal for agency users of the system. This involved integrating data from API calls which I implemented on the front-end and built on the back-end. I was also involved in adding new payment systems capabilities to the application. ",
+            "why": "Tixora is a company whose business is mass transit. With a simply swipe of an app users can manage their rides on mass transit systems in many areas of the US. The company also boasts an integration with a ride sharing service which uses transit agency vehicles. This integration was a big part of my work while at the company."
+        },
+        {
+            "id": 3,
+            "employer": "Switch Communications",
+            "title": "Software Engineer",
+            "dateStr": "April 2019 – July 2020 ",
+            "type": "Permanent",
+            "location": "Hybrid",
+            "how": "During my time at Switch I worked with a dynamic group of engineers to build front-end applications for this company. I was responsible for building and maintaining software created with Vue and Vuex. I built views using CSS, SASS and Responsive Design and implemented API consumers in the front-end of the application. I customized and used design components from Quasar. <br/><br/>During my time at Switch I worked on the Customer Portal, DCIM, and Intranet projects. I was also the team lead on the Customer Portal project.",
+            "why": "Switch runs highly secure data centers for numerous large companies. Their customers need visibility on their equipment and the ability to manage that equipment. The first goal was achieved through the customer portal project. The second goal was achieved through the DCIM project which exposed a graphic interface for building and configuring servers."
+        },
+        {
+            "id": 4,
+            "employer": "VetsEZ",
+            "title": "Software Engineer",
+            "dateStr": "May 2018 – April 2019 ",
+            "type": "Contract",
+            "location": "Remote",
+            "how": "I worked on a small cross functional team at this government contract for the VA. I helped to build front-end interfaces, implement API consumers, and build API endpoints to create an integrated patient view of third party and VA services. My tech stack included React, Node and Mongo.",
+            "why": "VetsEZ services the veteran’s community and provides valuable tools that allow users to manage services across a variety of domains, both government and commercial. Building useful interfaces provides this accessibility to the end user. "
+        },
+        {
+            "id": 5,
+            "employer": "Responsive Software",
+            "title": "Software Engineer",
+            "dateStr": "October 2011 – May 2018 ",
+            "type": "Permanent",
+            "location": "Remote",
+            "how": "During my time at this design studio, I had the opportunity to work with a number of technologies across multiple front-end and full stack applications. I worked with a high degree of autonomy to handle customer requirements while working directly with them. The tech stacks ranged from JQuery to Angular and React for front-end, to Node and PHP for back-end. I also worked with MySQL and Mongo. For responsive design I often used Bootstrap.",
+            "why": "Driving revenue for this business meant providing a good full lifecycle experience for the customer while maintaining a large but manageable customer base. Good communication, and responsive action were mainstays in attracting new business and maintaining existing customers."
+        },
+        {
+            "id": 6,
+            "employer": "Bank of America",
+            "title": "Software Engineer",
+            "dateStr": "January 2011 – October 2011 ",
+            "type": "Contract",
+            "location": "Simi Valley, CA",
+            "how": "I worked as a developer and project manager as a contractor for B of A during the housing crisis to build software that could predict imminent loan foreclosures and make recommendations to homeowners on government sponsored programs to help them keep their homes. I coordinated between the development dept and business stakeholders every other release cycle and worked on documentation in between to prepare for the next cycle. ",
+            "why": "It was necessary for banks to manage and stem the flow of foreclosures stemming from the collapse of the housing market in the previous year. The software to manage these cases and predict foreclosures had to be built quickly. Long hours were the norm during the project and each team would release between 10-15 features or enhancements per release. "
+        },
+        {
+            "id": 7,
+            "employer": "Insignia Technologies",
+            "title": "Software Engineer",
+            "dateStr": "December 2009 – January 2011 ",
+            "type": "Contract",
+            "location": "Monterey, CA",
+            "how": "I worked as a developer on a contract to develop software to replace an existing system utilized by the Defense Language Institute to monitor, schedule and test students in a variety of language skills. I also built a similar application for the language school in Virginia utilizing PHP and MySQL.",
+            "why": "In order to facilitate deployment overseas the DOD trains soldiers with a variety of language skills, the level of which is dependent on their post. The existing system did not have the complexity to manage language education in the way it was practiced at the school. To address this need Insignia built a suite of programs to manage scores, students, schedules and certifications."
+        },
+        {
+            "id": 8,
+            "employer": "Event Photography Group",
+            "title": "Software Engineer",
+            "dateStr": "May 2008 -November 2009",
+            "type": "Contract",
+            "location": "Fairfield, IA",
+            "how": "I worked as a developer on a contract to build software that replaced existing applications during a merger between companies. The applications I worked on including a provisioning system which triggered a series of steps when orders were received online and routed to a vendor. I also worked on photo management intranet used by photographers in the field to upload their photos for processing. ",
+            "why": "Chappell Studio was bought by Event Photography Group in 2008. The two software systems had different capabilities but still complimented each other. It was decided to integrate the two systems with each other. This involved working with both Cold Fusion and .NET. By merging, Event Photography Group inherited a very robust provisioning system."
+        },
+        {
+            "id": 9,
+            "employer": "Teleflora",
+            "title": "Software Engineer",
+            "dateStr": "October 2007 – May 2008 ",
+            "type": "Contract",
+            "location": "Oklahoma City, OK",
+            "how": "I worked as a contractor to develop an upgraded vendor management system for individual vendors. The application code included both the front-end implementations of Teleflora products and promotions but also the back-end administration and processing available to manage and fulfill the orders.",
+            "why": "Teleflora runs a huge affiliate network for fulfillment of orders to local communities. All of these affiliates run out of one code base managed by Teleflora. Managing affiliates and providing high quality solutions for them is a major part of their business."
+        },
+        {
+            "id": 10,
+            "employer": "CoreLogic / FNC",
+            "title": "Software Engineer",
+            "dateStr": "May 2003 – October 2007 ",
+            "type": "Permanent",
+            "location": "Oxford, MS",
+            "how": "I worked as a developer to build and maintain an automated underwriting platform used by large mortgage lenders to supplement their loan underwriting process. I also worked on templates in XML containing logic and data for integration with an OCR system that would process incoming home appraisals.  ",
+            "why": "FNC/Core Logic is a big player in the mortgage industry and it utilized by many large banks for their curated public information portal. They set the standard for scoring the value of capital in a mortgage transaction through a proprietary valuation model. "
+        }
+    ]
+}
